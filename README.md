@@ -2,7 +2,7 @@
 
 <!-- TOC -->
 
-- [info](#info)
+- [info](#docker-info)
 - [login](#login)
 
 ### docker info
