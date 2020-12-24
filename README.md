@@ -2,8 +2,8 @@
 
 <!-- TOC -->
 
-- [info](#docker info)
-- [login](#docker login)
+- [info](#info)
+- [login](#login)
 
 ### docker info
 _Display system-wide information_
