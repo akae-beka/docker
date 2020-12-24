@@ -107,3 +107,9 @@ remove only one container by ID
 ```
 docker rm 662c38240042
 ```
+
+### docker stats
+_Display a live stream of containers resource usage statistics_
+```
+docker stats
+```
